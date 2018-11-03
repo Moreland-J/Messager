@@ -1,0 +1,25 @@
+Two way communication
+Messenger but minus Facebook, host own server
+
+Requirements
+	- Server to host chat
+	- 2 client sides
+	- Store messages from the current conversation
+
+Technically
+	- Languages and Technologies
+		- HTML5
+		- CSS
+		- JavaScript
+		- AJAX
+			- Asynchronous JavaScript and XML
+			- technique for accessing web servers from a web page
+			- XMLHttpRequest object to read from server
+			- JavaScript to write to page
+		- XML
+			- to store data
+	- Server
+		- Node.js
+	- Client Side
+	- Database
+		- Write to or from DB using SQL
