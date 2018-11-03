@@ -1,8 +1,9 @@
 #enter {
     height: 50px;
-    width: 800px;
+    width: 1000px;
     position: fixed;
     bottom: 20px;
+    left: 20px;
 }
 
 #send {

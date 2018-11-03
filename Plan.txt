@@ -11,6 +11,7 @@ Technically
 		- HTML5
 		- CSS
 		- JavaScript
+			- Write functions to change HTML page
 		- AJAX
 			- Asynchronous JavaScript and XML
 			- technique for accessing web servers from a web page
@@ -22,4 +23,4 @@ Technically
 		- Node.js
 	- Client Side
 	- Database
-		- Write to or from DB using SQL
+		- Write to or from DB using AJAX
