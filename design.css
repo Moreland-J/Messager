@@ -1,0 +1,13 @@
+#enter {
+    height: 50px;
+    width: 800px;
+    position: fixed;
+    bottom: 20px;
+}
+
+#send {
+    width: 200px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
