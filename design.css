@@ -12,3 +12,13 @@
     bottom: 20px;
     right: 20px;
 }
+
+#left_board {
+    position: fixed;
+    left: 20px
+}
+
+#right_board {
+    position: fixed;
+    left: 50%;
+}
